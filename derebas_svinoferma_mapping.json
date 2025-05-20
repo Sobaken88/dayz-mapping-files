@@ -1,22 +1,6 @@
 {
     "Objects": [
         {
-            "name": "Land_DZ_s_radio_duty",
-            "pos": [
-                3673.97998046875,
-                40.559600830078128,
-                1036.4300537109376
-            ],
-            "ypr": [
-                -42.49998474121094,
-                0.0,
-                0.0
-            ],
-            "scale": 0.9999993443489075,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
             "name": "Land_museum_boar_wall",
             "pos": [
                 3672.21240234375,
@@ -109,22 +93,6 @@
                 -0.0
             ],
             "scale": 0.9999990463256836,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "bldr_Misc_WoodPile2",
-            "pos": [
-                3514.050048828125,
-                33.835201263427737,
-                1079.9200439453126
-            ],
-            "ypr": [
-                -5.499972820281982,
-                0.0,
-                0.0
-            ],
-            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -4817,22 +4785,6 @@
             "customString": ""
         },
         {
-            "name": "bldr_Rubble_DirtPile_Medium1",
-            "pos": [
-                3534.0888671875,
-                33.827125549316409,
-                1067.697998046875
-            ],
-            "ypr": [
-                -154.4563751220703,
-                -0.5663638710975647,
-                -0.14365287125110627
-            ],
-            "scale": 0.9999526143074036,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
             "name": "bldr_plnt_b_crataegusLaevigata_1s",
             "pos": [
                 3806.250732421875,
@@ -5073,86 +5025,6 @@
             "customString": ""
         },
         {
-            "name": "AnniversaryBoxLight",
-            "pos": [
-                4139.998046875,
-                339.3978271484375,
-                10801.0859375
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StoveLight",
-            "pos": [
-                4720.2333984375,
-                338.9804992675781,
-                9786.0537109375
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "XmasSleighLight",
-            "pos": [
-                4798.9580078125,
-                339.8411560058594,
-                9645.3583984375
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "XmasTreeLight",
-            "pos": [
-                4820.23828125,
-                341.1800842285156,
-                9614.388671875
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "ZombieMummyLight",
-            "pos": [
-                4802.04541015625,
-                339.8426208496094,
-                9601.3115234375
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
             "name": "bldr_light_cone",
             "pos": [
                 3467.3310546875,
@@ -5217,54 +5089,6 @@
             "customString": ""
         },
         {
-            "name": "AnniversaryMainLight",
-            "pos": [
-                4145.2919921875,
-                340.37890625,
-                10791.3837890625
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "PartyLight",
-            "pos": [
-                4518.2333984375,
-                342.9584655761719,
-                10142.041015625
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "PortableGasLampLight",
-            "pos": [
-                4568.4091796875,
-                339.32659912109377,
-                10054.4736328125
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
             "name": "bldr_light_cone",
             "pos": [
                 3510.84716796875,
@@ -5275,230 +5099,6 @@
                 0.0,
                 0.0,
                 -90.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "CivilianSedanFrontLight",
-            "pos": [
-                4217.435546875,
-                338.5009460449219,
-                10658.0205078125
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "CivilianSedanRearLight",
-            "pos": [
-                4230.89013671875,
-                340.9815368652344,
-                10634.25390625
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Hatchback_02FrontLight",
-            "pos": [
-                4410.6875,
-                339.4972839355469,
-                10322.748046875
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Hatchback_02RearLight",
-            "pos": [
-                4426.56298828125,
-                342.7171936035156,
-                10303.1982421875
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "HeadtorchLight",
-            "pos": [
-                4435.55078125,
-                342.8056640625,
-                10287.0322265625
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Offroad_02FrontLight",
-            "pos": [
-                4446.99658203125,
-                339.63800048828127,
-                10263.77734375
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Offroad_02RearLight",
-            "pos": [
-                4470.173828125,
-                340.553955078125,
-                10227.8759765625
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "OffroadHatchbackFrontLight",
-            "pos": [
-                4483.525390625,
-                341.2658996582031,
-                10201.2919921875
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "OffroadHatchbackRearLight",
-            "pos": [
-                4502.59033203125,
-                340.19488525390627,
-                10172.802734375
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "PistollightLight",
-            "pos": [
-                4549.1708984375,
-                340.29461669921877,
-                10090.2080078125
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Sedan_02FrontLight",
-            "pos": [
-                4633.81201171875,
-                343.4388732910156,
-                9931.14453125
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Sedan_02RearLight",
-            "pos": [
-                4651.150390625,
-                340.5055236816406,
-                9908.986328125
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Truck_01FrontLight",
-            "pos": [
-                4764.76318359375,
-                340.04132080078127,
-                9707.6845703125
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Truck_01RearLight",
-            "pos": [
-                4773.73388671875,
-                340.1572265625,
-                9688.6552734375
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
             ],
             "scale": 1.0,
             "enableCEPersistency": 0,
@@ -5531,22 +5131,6 @@
                 -180.0,
                 -90.0,
                 -180.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "UniversallightLight",
-            "pos": [
-                4787.47021484375,
-                340.19866943359377,
-                9664.8740234375
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
             ],
             "scale": 1.0,
             "enableCEPersistency": 0,
@@ -5654,22 +5238,6 @@
                 3701.036376953125,
                 41.189273834228519,
                 1088.6142578125
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "BonfireLight",
-            "pos": [
-                4167.66064453125,
-                340.9330139160156,
-                10754.509765625
             ],
             "ypr": [
                 0.0,
@@ -8129,22 +7697,6 @@
             "customString": ""
         },
         {
-            "name": "bldr_misc_tirepile",
-            "pos": [
-                3516.1572265625,
-                37.67318344116211,
-                1067.3795166015626
-            ],
-            "ypr": [
-                93.12751007080078,
-                0.3437565267086029,
-                -0.11457010358572006
-            ],
-            "scale": 0.9999997615814209,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
             "name": "Land_uazik_02",
             "pos": [
                 3570.787109375,
@@ -8429,22 +7981,6 @@
                 -0.0
             ],
             "scale": 0.9999980926513672,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "bldr_misc_woodpile_forest3",
-            "pos": [
-                3673.89990234375,
-                37.206298828125,
-                1027.530029296875
-            ],
-            "ypr": [
-                30.49997329711914,
-                -2.0287070274353029,
-                -8.97074031829834
-            ],
-            "scale": 0.9956517219543457,
             "enableCEPersistency": 0,
             "customString": ""
         },
